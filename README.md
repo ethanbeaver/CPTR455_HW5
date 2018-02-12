@@ -1,4 +1,4 @@
-# Homework 4
+# Homework 5
 
 This is the programming portion of homework number 5 for CPTR454
 
@@ -23,7 +23,7 @@ Then, run the file using python3.
 
 ```
 pip3 install numpy
-python3 Closest_Pair.py
+python3 hw5.py
 ```
 
 ## Authors
